@@ -12,7 +12,7 @@ The ability to appreciate, relfect, and reasess lessons from experience. True gr
  * Expect and predict that you will make mistakes
  * Appreciate and learn from your failures
  * Adapt and persevere 
- * Stay Positive
+ * Stay Positive***
 
 
 
