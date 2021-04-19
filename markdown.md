@@ -21,8 +21,8 @@ GitHub also has its own flavor of Markdown which can include features such as:
 ---
 ### [GitHub Pages](https://pages.github.com/)
 
-#### GitHub | GutHub Pages
-* Repositoty: Collection of files
+#### GitHub | GitHub Pages
+* Repository: Collection of files
 * Deployed Website: Shows pretty website
 
 By utuilizing GitHub Pages, you can deploy websites using markdown and preset themes.
@@ -30,8 +30,8 @@ By utuilizing GitHub Pages, you can deploy websites using markdown and preset th
 ---
 ### [GitHub Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 * Headers: represented by #
-* Emphasis: represented by * * (for itlaics) & ** ** (for bold)\
+* Emphasis: represented by * * (for italics) & ** ** (for bold)\
 * Paragraphs: create a new one by leaving a blank line inbetween text
 * Emojis: :EMOJICODE:
 
-*The syntax for makrdown is quite simple, by utilizing this Syntax Bookmark as a quick reference, you can build beautifully usable site on GitHub.*
+*The syntax for makrdown is quite simple, by utilizing this Syntax Bookmark as a quick reference, you can build a beautifully usable site on GitHub.*
