@@ -2,7 +2,7 @@
 
 Howdy. My name is Dasean Volk. Welcome to the portal in to leanring and note taking.
 
-Growth mindset>Fixed Mindset
+Growth mindset > Fixed Mindset
 
 ## Essentials
 * Google things
