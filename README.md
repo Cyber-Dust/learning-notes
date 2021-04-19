@@ -8,9 +8,9 @@ Growth Mindset > Fixed Mindset
 The ability to appreciate, relfect, and reasess lessons from experience. True grit that allows the individual to surpass stationary thinking and skill development. 
 
 ## Essentials of a Growth Mindset
-* Expect and predict that you will make mistakes
-* Appreciate and learn from your failures
-* Adapt and persevere 
-* Stay Positive
+### * Expect and predict that you will make mistakes
+### * Appreciate and learn from your failures
+### * Adapt and persevere 
+### * Stay Positive
 
 
