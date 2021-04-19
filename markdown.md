@@ -29,5 +29,5 @@ By utuilizing GitHub Pages, you can deploy websites using markdown and preset th
     
 ---
 ### [GitHub Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
-Headers: represented by #
-Emphasis: represented by * * (for itlaics) & ** ** (for bold)
+* Headers: represented by #
+* Emphasis: represented by * * (for itlaics) & ** ** (for bold)
