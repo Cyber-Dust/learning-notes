@@ -14,7 +14,7 @@ The ability to appreciate, relfect, and reasess lessons from experience. True gr
  * Adapt and persevere 
  * Stay Positive
 ---
-#### *Most of the important things in the world have been accomplished by people who have kept on trying when there seemed no hope at all.*—Dale Carnegie
+#### *Most of the important things in the world have been accomplished by people who have kept on trying when there seemed no hope at all.* —Dale Carnegie
 
 
 
