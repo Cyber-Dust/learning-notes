@@ -1,6 +1,6 @@
 # Markdown on GitHub
 ---
-### [Mastering Mrkdown on GitHub](https://guides.github.com/features/mastering-markdown/0)
+### [Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/0)
 ---
 ### [GitHub Pages](https://pages.github.com/)
 ---
