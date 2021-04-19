@@ -22,7 +22,11 @@ GitHub also has its own flavor of Markdown which can include features such as:
 ### [GitHub Pages](https://pages.github.com/)
 
 #### GitHub | GutHub Pages
-     -------|-------------
+* Repositoty: Collection of files
+* Deployed Website: Shows pretty website
+
+By utuilizing GitHub, you can deploy websites using markdown and even with preset themes.
+    
 ---
 ### [GitHub Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 Headers: represented by #
