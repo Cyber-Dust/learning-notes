@@ -4,8 +4,8 @@
 ### [Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/0)
 Markdown: a way to style text on the web.
 Foundational Syntax Guide:
-* Headers: #=<h1> ##=<h2> ... ######=<h6>
-*
+* Headers: represented by #
+* Emphasis: represented by * * (for itlaics) & ** ** (for bold)
 *
 *
 ---
