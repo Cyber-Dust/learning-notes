@@ -3,7 +3,7 @@
 ---
 ### [Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/0)
 **Markdown**: *a way to style text on the web.*
-Foundational of Markdown Structure
+######Foundational of Markdown Structure
 * Headers 
 * Emphasis 
 * Lists
