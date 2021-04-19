@@ -2,7 +2,7 @@
 ![](https://github.githubassets.com/images/modules/site/social-cards/github-social.png)
 ---
 ### [Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/0)
-Markdown: a way to style text on the web.
+**Markdown**: *a way to style text on the web.*
 Foundational of Markdown Structure
 * Headers 
 * Emphasis 
