@@ -34,4 +34,4 @@ By utuilizing GitHub Pages, you can deploy websites using markdown and preset th
 * Paragraphs: create a new one by leaving a blank line inbetween text
 * Emojis: :EMOJICODE:
 
-*The syntax for makrdown is quite simple, by utilizing this Syntax Bookmark as a quick reference, you can build beautifully usable site on GitHub.
+*The syntax for makrdown is quite simple, by utilizing this Syntax Bookmark as a quick reference, you can build beautifully usable site on GitHub.*
