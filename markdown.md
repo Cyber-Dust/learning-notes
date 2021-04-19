@@ -1,4 +1,4 @@
-# Markdown on GitHub
+# Markdown on GitHub / A Foundational Story
 ---
 ### [Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/0)
 ---
