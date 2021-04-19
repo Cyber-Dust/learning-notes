@@ -1,1 +1,3 @@
-# I will take notes on my reading notes for markdown.
+# Markdown on GitHub
+---
+## [Mastering MArkdown on GitHub] (https://guides.github.com/features/mastering-markdown/0).
