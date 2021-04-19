@@ -20,6 +20,9 @@ GitHub also has its own flavor of Markdown which can include features such as:
 * Emojis 
 ---
 ### [GitHub Pages](https://pages.github.com/)
+
+#### GitHub | GutHub Pages
+     -------|-------------
 ---
 ### [GitHub Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 Headers: represented by #
