@@ -1,5 +1,5 @@
 # Markdown on GitHub / A Foundational Story
-!(https://github.githubassets.com/images/modules/site/social-cards/github-social.png)
+![](https://github.githubassets.com/images/modules/site/social-cards/github-social.png)
 ---
 ### [Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/0)
 ---
