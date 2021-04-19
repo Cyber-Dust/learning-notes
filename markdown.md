@@ -25,7 +25,7 @@ GitHub also has its own flavor of Markdown which can include features such as:
 * Repositoty: Collection of files
 * Deployed Website: Shows pretty website
 
-By utuilizing GitHub, you can deploy websites using markdown and preset themes.
+By utuilizing GitHub Pages, you can deploy websites using markdown and preset themes.
     
 ---
 ### [GitHub Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
