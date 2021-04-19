@@ -1,5 +1,5 @@
-# Learning-notes
-
+# Learning-Notes
+____
 Howdy. My name is Dasean Volk. Welcome into the portal of leanring and note taking.
 
 ### Growth Mindset > Fixed Mindset
