@@ -16,5 +16,5 @@ ___
 3. Staged
 
 INSTALL (Mac OS x & Windows)
-[GIT](http://git-scm.com/download/mac)
-[GITHUB](http://mac.github.com)
+* [GIT](http://git-scm.com/download/mac)
+* [GITHUB](http://mac.github.com)
