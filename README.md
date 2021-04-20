@@ -1,7 +1,7 @@
 # Learning-Notes
 ____
 Howdy! My name is Dasean Volk. Welcome into my coding portal of learning and note taking.
-Here is a link to my Github: [Press Me](cyber-dust.github.io/reading-notes/)
+Here is a link to my Github: [Press Me](https://github.com/Cyber-Dust)
 
 ### Growth Mindset > Fixed Mindset
 ----
