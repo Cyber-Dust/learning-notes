@@ -24,4 +24,4 @@ ____
 * A text editor edits text.
 * An IDE (Integrated Development Enviornment) is a packaged editor, compiler, debugger, all-in-one.
 
-I persoonally use Sublime at the moment.
+I personally use Sublime at the moment.
