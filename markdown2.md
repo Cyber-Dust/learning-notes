@@ -3,3 +3,4 @@
 ---
 ## Text Editor
 Software that is installed or accessed online to manage website text.
+Baseically, a futuristic typewriter. 
