@@ -19,4 +19,5 @@ The ability to **appreciate, relfect, and reassess** lessons from experience. *T
 
 ## Table of Contents
 * [Reading Class 1](markdown.md)
+* [Reading Class 2]
 
