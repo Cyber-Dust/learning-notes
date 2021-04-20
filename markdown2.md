@@ -5,7 +5,7 @@
 #### Software that is installed or accessed online to manage website text.
 Basically, a futuristic typewriter. 
 ---
-## Features of a Text Editor
+### Features of a Text Editor
 * Code completion
 * Syntax highlighting
 * Themes
