@@ -19,6 +19,6 @@ The ability to **appreciate, relfect, and reassess** lessons from experience. *T
 #### *Most of the important things in the world have been accomplished by people who have kept on trying when there seemed no hope at all.* —Dale Carnegie
 
 ## Table of Contents
-* [Reading Class 1](markdown.md)
-* [Reading Class 2](markdown2.md)
+* [The Foundational Principles of Markdown on GitHub](markdown.md)
+* [Choosing a Text Editor](markdown2.md)
 
