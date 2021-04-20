@@ -9,7 +9,7 @@ Here is a link to my Github: [Press](https://github.com/Cyber-Dust)
 ## Growth Mindset:
 The ability to **appreciate, relfect, and reassess** lessons from experience. *True grit* that allows the individual to surpass stationary thinking and skill development. 
 
-## The Essentials of a Growth Mindset
+## The Essentials of a Growth Mindset :chart:
  * Expect and predict that you will make mistakes
  * Appreciate and learn from your failures
  * Adapt and persevere 
