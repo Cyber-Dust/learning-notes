@@ -15,6 +15,10 @@ ___
 2. Modified
 3. Staged
 
-INSTALL (Mac OS x & Windows)
+### INSTALL (Mac OS x & Windows)
 * [GIT](http://git-scm.com/download/mac)
 * [GITHUB](http://mac.github.com)
+* [Here](https://git-scm.com/downloads/guis) is a list of accessible GUI (Graphical User Interface) clients for Git
+* Use Vim, default text order or configure your own. 
+
+ex.) $ git config --global core.editor emacs
