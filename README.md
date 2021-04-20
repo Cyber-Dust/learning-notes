@@ -1,4 +1,4 @@
-# Learning-Notes **CODING PORTAL**
+# Learning-Notes **CODING PORTAL** ⭐⭐⭐⭐⭐
 ____
 Hello, my name is Dasean Volk. Welcome into the coding portal of learning and note taking.
 Click this [link](https://github.com/Cyber-Dust) to access my Github.
