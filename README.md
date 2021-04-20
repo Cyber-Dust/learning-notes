@@ -26,3 +26,4 @@ The ability to **appreciate, relfect, and reassess** lessons from experience. *T
 * [Choosing a Text Editor](markdown2.md)
 * [Navigating the Terminal](terminal.md)
 #### Reading 02
+* [Git Tutorial](markdown3.md)
