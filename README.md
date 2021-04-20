@@ -4,6 +4,7 @@ Hello, my name is Dasean Volk. Welcome into the coding portal of learning and no
 Click this [link](https://github.com/Cyber-Dust) to access my Github.
 
 ### Growth Mindset > Fixed Mindset
+*the only equation you'll need to remeber for aquiring any skill that isn't inborn.
 ----
 
 ## Growth Mindset:
