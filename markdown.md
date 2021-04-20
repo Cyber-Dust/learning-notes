@@ -36,4 +36,4 @@ By utuilizing GitHub Pages, you can deploy websites using markdown and preset th
 
 *The syntax for makrdown is quite simple, by utilizing this Syntax Bookmark as a quick reference, you can build a beautifully usable site on GitHub.*
 
-[<==Back](README.md) **|** [Next==>]
+[<==Back](README.md) **|** [Next==>](Markdown2.md)
