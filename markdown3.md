@@ -20,5 +20,13 @@ ___
 * [GITHUB](http://mac.github.com)
 * [Here](https://git-scm.com/downloads/guis) is a list of accessible GUI (Graphical User Interface) clients for Git
 * Use Vim, default text order or configure your own. 
+* Check Settings // git config --list
 
-ex.) $ git config --global core.editor emacs
+### GIT REPOSITORY
+1. Switch to target project directory // $ cd test (cd = change directory)
+2. Use // $ git init
+3. To track the repository files // 
+$ git add *.c
+$ git add LICENSE
+$ git commit -m “any message here”
+
