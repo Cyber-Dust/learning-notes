@@ -43,4 +43,6 @@ $ git clone https://github.com/test mydirectory
 2. **Index**: staging area
 3. **Head**: Points to recent commit
 
+[<==Return to Home](README.md)
+
 
