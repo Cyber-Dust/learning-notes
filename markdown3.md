@@ -1,4 +1,4 @@
-# GIT INTRO
+# [GIT INTRO](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 ___
 *Version Control* is a system where you can revisit multiple versions of a set of files by recording the changes.
 * Local Version Control
@@ -42,3 +42,5 @@ $ git clone https://github.com/test mydirectory
 1. **Working Directory**: where the files reside
 2. **Index**: staging area
 3. **Head**: Points to recent commit
+
+
