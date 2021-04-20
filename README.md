@@ -1,4 +1,4 @@
-# Learning-Notes
+# Learning-Notes **CODING PORTAL**
 ____
 Hello, my name is Dasean Volk. Welcome into the coding portal of learning and note taking.
 Click this [link](https://github.com/Cyber-Dust) to access my Github.
@@ -19,7 +19,6 @@ The ability to **appreciate, relfect, and reassess** lessons from experience. *T
 ---
 #### *Most of the important things in the world have been accomplished by people who have kept on trying when there seemed no hope at all.* —Dale Carnegie
 
-# **CODING PORTAL**
 
 ## Table of Contents
 #### Reading 01
