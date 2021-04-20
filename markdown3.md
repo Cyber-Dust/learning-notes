@@ -37,3 +37,8 @@ $ git clone https://github.com/test
 
 If you want to change the name, add your new directory name at the end of the command. 
 $ git clone https://github.com/test mydirectory
+
+### LOCAL REPOSITORY STRUCTIRE
+1. **Working Directory**: where the files reside
+2. **Index**: staging area
+3. **Head**: Points to recent commit
