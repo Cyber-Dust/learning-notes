@@ -10,3 +10,18 @@ Basically, a futuristic typewriter.
 * Syntax highlighting
 * Themes
 * CSS/HTML proficiency 
+
+### Text Editors
+* Notepad++
+* TextWrangler/ BB Edit
+* Atom
+* Visual Studio Code
+* Sublime
+* Brackets
+
+## IDE V. TEXT EDITOR
+____
+* A text editor edits text.
+* An IDE (Integrated Development Enviornment) is a packaged editor, compiler, debugger, all-in-one.
+
+I persoonally use Sublime at the moment.
