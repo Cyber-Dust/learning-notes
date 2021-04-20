@@ -1,4 +1,5 @@
 # NAVIGATING THE TERMINAL
+### Terminal Cheat Sheet
 | cd | Change Directory |
 | ----------- | ----------- |
 | rm -rf| Permanent Delete |
