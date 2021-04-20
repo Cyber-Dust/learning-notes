@@ -21,6 +21,8 @@ The ability to **appreciate, relfect, and reassess** lessons from experience. *T
 # **CODING PORTAL**
 
 ## Table of Contents
+### Reading Class 1
 * [The Foundational Principles of Markdown on GitHub](markdown.md)
 * [Choosing a Text Editor](markdown2.md)
 * [Navigating the Terminal](terminal.md)
+### Reading Class 2
