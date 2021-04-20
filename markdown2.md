@@ -25,3 +25,5 @@ ____
 * An IDE (Integrated Development Enviornment) is a packaged editor, compiler, debugger, all-in-one.
 
 I personally use Sublime at the moment.
+
+[<==Back](README.md)|[Next==>]
