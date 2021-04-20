@@ -1,4 +1,4 @@
-# CHOOSING A TEXT EDITOR
+# [CHOOSING A TEXT EDITOR](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 ![](https://miro.medium.com/max/800/0*MyAfggJM7yH40Sdx.)
 ---
 ## Text Editor
