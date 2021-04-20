@@ -30,3 +30,10 @@ $ git add *.c
 $ git add LICENSE
 $ git commit -m “any message here”
 
+### CLONING
+Create copies of existing Git repositories
+
+$ git clone https://github.com/test
+
+If you want to change the name, add your new directory name at the end of the command. 
+$ git clone https://github.com/test mydirectory
