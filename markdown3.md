@@ -1,4 +1,4 @@
-#GIT INTRO
+# GIT INTRO
 ___
 *Version Control* is a system where you can revisit multiple versions of a set of files by recording the changes.
 * Local Version Control
