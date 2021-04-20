@@ -1,4 +1,4 @@
-# Markdown on GitHub / A Foundational Story
+# The Foundational Principles of Markdown on GitHub 
 ![](https://github.githubassets.com/images/modules/site/social-cards/github-social.png)
 ---
 ### [Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/0)
@@ -36,4 +36,4 @@ By utuilizing GitHub Pages, you can deploy websites using markdown and preset th
 
 *The syntax for makrdown is quite simple, by utilizing this Syntax Bookmark as a quick reference, you can build a beautifully usable site on GitHub.*
 
-[<==Back](README.md)
+[<==Back](README.md) **|** [Next==>]
