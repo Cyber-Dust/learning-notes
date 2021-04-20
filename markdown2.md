@@ -26,4 +26,4 @@ ____
 
 I personally use Sublime at the moment.
 
-[<==Back](README.md)|[Next==>]
+[<==Back](README.md)|[Next==>](terminal.md)
