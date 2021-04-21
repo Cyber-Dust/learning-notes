@@ -16,14 +16,14 @@ Created by Tim Berners-Lee
 * THe new HTML5 layout allows you to divide up the parts of the page.
 
 ### HTML5 Elements
-* <header> <footer>
-* <nav>
-* <article>
-* <aside>
-* <section>
-* <hgroup>
-* <figure> <figcaption>
-* <div>
+* `<header> <footer>`
+* `<nav>`
+* `<article>`
+* `<aside>`
+* `<section>`
+* `<hgroup>`
+* `<figure> <figcaption>`
+*
 
 To let older browsers know the HTML5 elements, include the line of CSS.
 *Utilizing HTML shiv on Google*
