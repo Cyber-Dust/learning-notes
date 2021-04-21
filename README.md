@@ -31,12 +31,18 @@ The ability to **appreciate, relfect, and reassess** lessons from experience. *T
 
 ### Table of Contents
 
-#### I
+#### I.
 
 * [The Foundational Principles of Markdown on GitHub](markdown.md)
 * [Choosing a Text Editor](markdown2.md)
 * [Navigating the Terminal](terminal.md)
 
-#### II
+#### II.
 
 * [Git Tutorial](markdown3.md)
+* [HTML](HTML.md)
+
+#### III.
+#### IV.
+#### V.
+
