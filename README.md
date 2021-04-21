@@ -1,4 +1,4 @@
-# *READING-NOTES* ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+# *READING NOTES* ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 ____
 Hello, my name is Dasean Volk..
