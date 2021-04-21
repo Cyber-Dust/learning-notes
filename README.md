@@ -1,22 +1,22 @@
 # *READING NOTES* ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
 ____
-Hello, my name is Dasean Volk..
+Hello, my name is Dasean Volk..or CyberDust.
 
-Welcome into the coding portal of learning and note taking.
+Welcome into the coding portal of introductory software development.
 
 Click this [link](https://github.com/Cyber-Dust) to access my Github.
 
 
-### Growth Mindset > Fixed Mindset
+### Growth Mindset > Fixed Mindset = **Proficiency**
 
-###### *the only calculation you'll need to remember for aquiring any skill that isn't inborn.*
+###### *this is the only calculation you'll need to remember for aquiring any skill that isn't inborn.*
 
 ----
 
 ## Growth Mindset ⬇
 
-The ability to **appreciate, relfect, and reassess** lessons from experience. *True grit* that allows the individual to surpass stationary thinking and skill development..
+The ability to **appreciate, relfect, and reassess** lessons from experience. *True grit* that allows the individual to surpass stationary thinking and cultivate skill through effort.
 
 ## The Essentials of a Growth Mindset 📈
 
