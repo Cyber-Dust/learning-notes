@@ -23,7 +23,6 @@ Created by Tim Berners-Lee
 * `<section>`
 * `<hgroup>`
 * `<figure> <figcaption>`
-*
 
 To let older browsers know the HTML5 elements, include the line of CSS.
 *Utilizing HTML shiv on Google*
