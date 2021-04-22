@@ -46,6 +46,7 @@ The ability to **appreciate, relfect, and reassess** lessons from experience. *T
 
 * [CSS](CSS.md)
 * [JavaScript Basics](introJS.md)
+* [How Computers Work](computerworks.md)
 
 #### IV.
 #### V.
