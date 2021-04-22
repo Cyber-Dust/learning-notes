@@ -49,5 +49,9 @@ The ability to **appreciate, relfect, and reassess** lessons from experience. *T
 * [How Computers Work](computerworks.md)
 
 #### IV.
+
+* [Intro to JS Function](introJS.md)
+* [Operators and Loops](oploop.md)
+
 #### V.
 
