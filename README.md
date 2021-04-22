@@ -51,7 +51,7 @@ The ability to **appreciate, relfect, and reassess** lessons from experience. *T
 #### IV.
 
 * [Intro to JS Function](introJS.md)
-* [Operators and Loops](oploop.md)
+* [Operators and Loops](Oploop.md)
 
 #### V.
 
