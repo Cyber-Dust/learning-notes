@@ -53,5 +53,35 @@ The ability to **appreciate, relfect, and reassess** lessons from experience. *T
 * [Intro to JS Function](introJS.md)
 * [Operators and Loops](Oploop.md)
 
-#### V.
+#### CODE 201 READING NOTES
+
+##### Daily Assignment 1
+
+##### Daily Assignment 2
+
+##### Daily Assignment 3
+
+##### Daily Assignment 4
+
+##### Daily Assignment 5
+
+##### Daily Assignment 6
+
+##### Daily Assignment 7
+
+##### Daily Assignment 8
+
+##### Daily Assignment 9
+
+##### Daily Assignment 10
+
+##### Daily Assignment 11
+
+##### Daily Assignment 12
+
+##### Daily Assignment 13
+
+##### Daily Assignment 14
+
+##### Daily Assignment 15
 
