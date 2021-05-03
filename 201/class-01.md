@@ -116,3 +116,5 @@ JS | | | | | | | | | | | | | | | | JS
 - Keep JS code in its own JS file. = .js extension
 - `<script>` element is used in HTML pages to tell the browser to load the JavaScript File
 - If you view the source code of the page in the browser the JavaScript will not have changed the HTML, becuase the script works with the model of the web page that the browser has created.
+
+[<==ReturnToHome](README.md)
