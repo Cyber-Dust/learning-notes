@@ -31,57 +31,34 @@ The ability to **appreciate, relfect, and reassess** lessons from experience. *T
 
 ### Table of Contents
 
-#### I.
+#### I. 102
 
 * [The Foundational Principles of Markdown on GitHub](markdown.md)
 * [Choosing a Text Editor](markdown2.md)
 * [Navigating the Terminal](terminal.md)
-
-#### II.
-
+---
 * [Git Tutorial](markdown3.md)
 * [HTML](HTML.md)
-
-#### III.
-
+---
 * [CSS](CSS.md)
 * [JavaScript Basics](introJS.md)
 * [How Computers Work](computerworks.md)
-
-#### IV.
-
+---
 * [Intro to JS Function](introJS.md)
 * [Operators and Loops](Oploop.md)
 
-#### CODE 201 READING NOTES
 
-##### Daily Assignment 1
 
-##### Daily Assignment 2
+#### II. 201
+* [Introductory HTML & Javascript](class-01.md)
+* [HTML Text, CSS Introduction, and Basic JavaScript Introductions](read2.md)
 
-##### Daily Assignment 3
 
-##### Daily Assignment 4
+#### III. 301
 
-##### Daily Assignment 5
 
-##### Daily Assignment 6
+#### IV. 401
 
-##### Daily Assignment 7
 
-##### Daily Assignment 8
 
-##### Daily Assignment 9
-
-##### Daily Assignment 10
-
-##### Daily Assignment 11
-
-##### Daily Assignment 12
-
-##### Daily Assignment 13
-
-##### Daily Assignment 14
-
-##### Daily Assignment 15
 
