@@ -20,7 +20,7 @@ To indicate opacity, use RGBA
 
 # Chapter 12
 TEXT
-Typface terminology
+Typeface terminology
 - Serif
 - Sans-serif
 - monospace
@@ -41,12 +41,12 @@ JPEG
 
 PNG 
 - lossless image for deflate compression.
-- supports trasnparency 
+- supports transparency 
 - use for logos
 
 GIF 
 - lossless image format that uses LZW compression algorithm.
-- supports trasnparency 
+- supports transparency 
 - use for animations
 
 [<==ReturnToHome](README.md)
