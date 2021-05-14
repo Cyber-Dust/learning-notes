@@ -13,15 +13,15 @@ Debugging is a process of deduction: eliminating the potential causes of an erro
 8. EvalError
 
 ## EXECUTION CONTEXT
-Global Context
+### Global Context
 - Code in the script, but not the funciton
-Funciton Context
+### Funciton Context
 - Code run within the function
-Eval Context
+### Eval Context
 
 
 ## VARIABLE SCOPE
-Global Scope
+### Global Scope
 - If variable is declared outside the funciton
-Function Level Scope
+### Function Level Scope
 - Variable that is called within function
