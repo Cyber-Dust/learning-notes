@@ -52,6 +52,14 @@ The ability to **appreciate, relfect, and reassess** lessons from experience. *T
 #### II. 201
 * [Introductory HTML & Javascript](class-01.md)
 * [HTML Text, CSS Introduction, and Basic JavaScript Introductions](read2.md)
+* [HTML Lists, CSS Boxes, JS Control Flow](read3.md)
+* [ HTML Links, CSS Layout, JS Functions](read4.md)
+* [HTML Images; CSS Color & Text](read5.md)
+* [JS Object Literals; The DOM](read06.md)
+* [HTML Tables; JS Constructor Functions](read7.md)
+* [More CSS Layout](read8.md)
+* [Forms and Events](read9.md)
+* [JS Debugging](read10.md)
 
 
 #### III. 301
