@@ -60,7 +60,10 @@ The ability to **appreciate, relfect, and reassess** lessons from experience. *T
 * [More CSS Layout](read8.md)
 * [Forms and Events](read9.md)
 * [JS Debugging](read10.md)
-
+* [Assorted Topics](read10.md)
+* [Audio, Video, Images](read11.md)
+* [Docs for the HTML <canvas> Element & Chart.js](read12.md)
+* [THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](read13.md)
 
 #### III. 301
 
