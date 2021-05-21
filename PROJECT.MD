@@ -1,3 +1,6 @@
+# TEAM CHEERIOS
+## Joshua, Dasean, Clarissa, Ben, Ayrat
+
 **Deliverable**
 
 Start a public-facing GitHub markdown file, and include the following components in your team agreement submission.
