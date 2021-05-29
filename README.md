@@ -7,6 +7,9 @@ Welcome into the coding portal of introductory software development.
 
 Click this [link](https://github.com/Cyber-Dust) to access my Github.
 
+I hope this acts as some sort of rudimentary outline of what software development is.
+
+
 
 ### Growth Mindset > Fixed Mindset = **Proficiency**
 
